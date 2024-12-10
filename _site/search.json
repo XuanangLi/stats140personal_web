@@ -4,7 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.22120856 0.54092996 0.08826551 0.38542579 0.55832537 0.23988764\n [7] 0.59967297 0.43737402 0.52310687 0.28283809"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.47705061 0.42075782 0.62119736 0.73329989 0.28020099 0.38065779\n [7] 0.07144134 0.22606631 0.32545790 0.71515047"
+  },
+  {
+    "objectID": "about.html#heading-2",
+    "href": "about.html#heading-2",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.47705061 0.42075782 0.62119736 0.73329989 0.28020099 0.38065779\n [7] 0.07144134 0.22606631 0.32545790 0.71515047"
+  },
+  {
+    "objectID": "about.html#new-heading-2",
+    "href": "about.html#new-heading-2",
+    "title": "About",
+    "section": "New Heading 2",
+    "text": "New Heading 2"
   },
   {
     "objectID": "index.html",
