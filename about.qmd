@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+## Heading 2
+
 About this site
 
 ```{r}
@@ -11,3 +13,7 @@ About this site
 ```{r}
 runif(10)
 ```
+
+### heading 3
+
+## New Heading 2
