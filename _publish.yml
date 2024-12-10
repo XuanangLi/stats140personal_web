@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 570a0cf1-80b0-4c2a-b576-5e29f7fb9175
+      url: 'https://xuananglijacksite.netlify.app/'

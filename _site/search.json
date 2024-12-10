@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Xuanang Li (Jack)",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.7220066 0.3792477 0.5242589 0.3828303 0.9711088 0.3545545 0.5183494\n [8] 0.9201281 0.1242943 0.6923082"
   }
 ]
