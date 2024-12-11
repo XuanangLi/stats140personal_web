@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.35413155 0.95495612 0.03085603 0.72769154 0.71399802 0.42875582\n [7] 0.49773230 0.67657085 0.74205651 0.69172540"
-  },
-  {
-    "objectID": "about.html#heading-2",
-    "href": "about.html#heading-2",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.35413155 0.95495612 0.03085603 0.72769154 0.71399802 0.42875582\n [7] 0.49773230 0.67657085 0.74205651 0.69172540"
-  },
-  {
-    "objectID": "about.html#new-heading-2",
-    "href": "about.html#new-heading-2",
-    "title": "About",
-    "section": "New Heading 2",
-    "text": "New Heading 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Xuanang Li",
@@ -42,25 +21,18 @@
     "text": "Experience\nTokyo Trading Card Exchange | Data Scientist |Sept 2024 - present\nDuke65 | Data Analyst | June 2024 - Sept 2024"
   },
   {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Project1",
+    "section": "",
+    "text": "IMDB Movie Reviews Sentiment Prediction"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
     "text": "IMDB Movie Reviews Sentiment Prediction\n1. Developed a lexicon of 6787 words across 50000 IMDB moview reviews. Leveraged TG-IDF and PCA to reduce dimensionality on common words.\n\n2. Achieved 88.9\\% accuracy with Neural Networks sentiment analysis model by evaluating and optimizing multiple models including Logistic Regression, KNN , SVM, LDA/QDA, Random Forests, and Neural Networks.\nClick here to download the pdf"
-  },
-  {
-    "objectID": "projects.html#heading-2",
-    "href": "projects.html#heading-2",
-    "title": "Projects",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.43647121 0.58074111 0.92165435 0.97662840 0.45204045 0.06292314\n [7] 0.13780601 0.77395860 0.69144198 0.94068984"
-  },
-  {
-    "objectID": "projects.html#new-heading-2",
-    "href": "projects.html#new-heading-2",
-    "title": "Projects",
-    "section": "New Heading 2",
-    "text": "New Heading 2"
   },
   {
     "objectID": "projects.html#project-1",
