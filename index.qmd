@@ -1,11 +1,28 @@
 ---
-title: "Xuanang Li (Jack)"
+title: "Xuanang Li"
+about:
+  template: jolla
+  image: xuanang.jpg
+  links:
+    - icon: Linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/xuanang-li-565948230/
+    - icon: github
+      text: Github
+      href: https://github.com/XuanangLi
+    - text: Email
+      href: "jacklixuanang@gmail.com"
+toc: false
 ---
 
-This is a Quarto website.
+I'm a Fourth-year student majoring statistics and data science and minoring film. I have worked on a project at the University of Chinese Academy of Sciences that used biochar to purify soil contaminated by heavy metals. I am currently working in data analytics at an e-commerce company in LA, and as a data science intern at a card trading company in Tokyo.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles \| Los Angeles, CA BS in Statistics and Data Science \| Sept 2021 - June 2025
+
+## Experience
+
+Tokyo Trading Card Exchange \| Data Scientist \|Sept 2024 - present
+
+Duke65 \| Data Analyst \| June 2024 - Sept 2024

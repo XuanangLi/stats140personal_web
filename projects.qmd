@@ -1,0 +1,25 @@
+---
+title: "Projects"
+---
+
+## Project 1
+
+**IMDB Movie Reviews Sentiment Prediction**
+
+```         
+1. Developed a lexicon of 6787 words across 50000 IMDB moview reviews. Leveraged TG-IDF and PCA to reduce dimensionality on common words.
+
+2. Achieved 88.9\% accuracy with Neural Networks sentiment analysis model by evaluating and optimizing multiple models including Logistic Regression, KNN , SVM, LDA/QDA, Random Forests, and Neural Networks.
+```
+
+[Click here to download the pdf](projects/stats_101c.pdf)
+
+## Project 2
+
+**Time Series Analysis for Central African's exports**
+
+1\. Applied Box-Cox transformation to stabilize a non-stationary time series, ensuring data suitability.
+
+2\. Utilized Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) for model identification and performed a comparative analysis of six data transformation models based on Akaike Information Criterion (AIC) to identify the optimal ARMA model. Conducted residual diagnostics using ACF plots and portmanteau tests, confirming that residuals adhered to white noise properties, indicative of a well-fitting model.
+
+3\. Developed and implemented an ARIMA(2,0,2) model to forecast ten future data points, showcasing predictive capabilities in a real-world economic context.

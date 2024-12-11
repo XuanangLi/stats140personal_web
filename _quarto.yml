@@ -7,7 +7,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: projects
+  page-footer: 
+    right: "&copy; 2024, Xuanang Li"
+
+  
+
+
+
 
 format:
   html:
@@ -16,4 +24,7 @@ format:
     toc: true
 
 editor: visual
+
+excecute: 
+  freeze: auto
 

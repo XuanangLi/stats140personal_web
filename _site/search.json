@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.47705061 0.42075782 0.62119736 0.73329989 0.28020099 0.38065779\n [7] 0.07144134 0.22606631 0.32545790 0.71515047"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.35413155 0.95495612 0.03085603 0.72769154 0.71399802 0.42875582\n [7] 0.49773230 0.67657085 0.74205651 0.69172540"
   },
   {
     "objectID": "about.html#heading-2",
     "href": "about.html#heading-2",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.47705061 0.42075782 0.62119736 0.73329989 0.28020099 0.38065779\n [7] 0.07144134 0.22606631 0.32545790 0.71515047"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.35413155 0.95495612 0.03085603 0.72769154 0.71399802 0.42875582\n [7] 0.49773230 0.67657085 0.74205651 0.69172540"
   },
   {
     "objectID": "about.html#new-heading-2",
@@ -23,8 +23,57 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Xuanang Li (Jack)",
+    "title": "Xuanang Li",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a Fourth-year student majoring statistics and data science and minoring film. I have worked on a project at the University of Chinese Academy of Sciences that used biochar to purify soil contaminated by heavy metals. I am currently working in data analytics at an e-commerce company in LA, and as a data science intern at a card trading company in Tokyo."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Xuanang Li",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA BS in Statistics and Data Science | Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Xuanang Li",
+    "section": "Experience",
+    "text": "Experience\nTokyo Trading Card Exchange | Data Scientist |Sept 2024 - present\nDuke65 | Data Analyst | June 2024 - Sept 2024"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "IMDB Movie Reviews Sentiment Prediction\n1. Developed a lexicon of 6787 words across 50000 IMDB moview reviews. Leveraged TG-IDF and PCA to reduce dimensionality on common words.\n\n2. Achieved 88.9\\% accuracy with Neural Networks sentiment analysis model by evaluating and optimizing multiple models including Logistic Regression, KNN , SVM, LDA/QDA, Random Forests, and Neural Networks.\nClick here to download the pdf"
+  },
+  {
+    "objectID": "projects.html#heading-2",
+    "href": "projects.html#heading-2",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.43647121 0.58074111 0.92165435 0.97662840 0.45204045 0.06292314\n [7] 0.13780601 0.77395860 0.69144198 0.94068984"
+  },
+  {
+    "objectID": "projects.html#new-heading-2",
+    "href": "projects.html#new-heading-2",
+    "title": "Projects",
+    "section": "New Heading 2",
+    "text": "New Heading 2"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "IMDB Movie Reviews Sentiment Prediction\n1. Developed a lexicon of 6787 words across 50000 IMDB moview reviews. Leveraged TG-IDF and PCA to reduce dimensionality on common words.\n\n2. Achieved 88.9\\% accuracy with Neural Networks sentiment analysis model by evaluating and optimizing multiple models including Logistic Regression, KNN , SVM, LDA/QDA, Random Forests, and Neural Networks.\nClick here to download the pdf"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\nTime Series Analysis for Central African’s exports\n1. Applied Box-Cox transformation to stabilize a non-stationary time series, ensuring data suitability.\n2. Utilized Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) for model identification and performed a comparative analysis of six data transformation models based on Akaike Information Criterion (AIC) to identify the optimal ARMA model. Conducted residual diagnostics using ACF plots and portmanteau tests, confirming that residuals adhered to white noise properties, indicative of a well-fitting model.\n3. Developed and implemented an ARIMA(2,0,2) model to forecast ten future data points, showcasing predictive capabilities in a real-world economic context."
   }
 ]
